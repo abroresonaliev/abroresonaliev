@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+Wakatime badge ([![wakatime](https://wakatime.com/badge/user/dcc69eb0-bb12-47d1-b972-7e5a348e0574.svg)]
+
 <!--
 **abroresonaliev/abroresonaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-Wakatime badge https://wakatime.com/badge/user/dcc69eb0-bb12-47d1-b972-7e5a348e0574.svg
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
